@@ -220,3 +220,7 @@ Focus supply planning on **coffee and tea products**, which drive the majority o
 • Business Insight Generation
 
 • Dashboard Design & Storytelling
+
+10. **Author**
+
+Arpit Mukherjee | Data Analysis, Advanced Excel, Data Visualization
