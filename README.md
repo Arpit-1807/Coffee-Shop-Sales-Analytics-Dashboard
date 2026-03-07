@@ -1,4 +1,4 @@
-# Coffee-Shop-Sales-Analytics-Dashboard
+# Coffee-Shop-Sales-Analytics-Dashboard-MS Excel
 
 1. **Project Overview**
 
