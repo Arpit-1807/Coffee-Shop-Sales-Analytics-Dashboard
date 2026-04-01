@@ -1,15 +1,13 @@
 # Coffee-Shop-Sales-Analytics-Dashboard-MS Excel
 
-1. **Project Overview**
-
+## Project Overview
 This project analyzes coffee shop transactional sales data to uncover revenue patterns, customer purchasing behavior, product performance, and peak sales periods.
 
 An interactive data analytics dashboard was developed to transform raw sales data into actionable business insights, enabling stakeholders to optimize product strategy, staffing, and operational planning.
 
 The dashboard highlights monthly revenue trends, peak transaction days, hourly customer traffic, product category performance, and top-selling products across multiple store locations.
 
-2. **Business Objectives**
-
+## Business Objectives
 The main objectives of this project were to:
 
 • Analyze **revenue growth trends across months**
@@ -24,7 +22,7 @@ The main objectives of this project were to:
 
 • Generate **actionable insights for operational and marketing decisions**
 
-3. **Dashboard Highlights**
+ ## Dashboard Highlights
 
 The dashboard includes the following key analytical views:
 
@@ -132,8 +130,7 @@ E. **Top Selling Products**
 
 • Marketing campaigns could focus on **signature beverages**
 
-4. **Interactive Filters**
-
+## Interactive Filters
 The dashboard allows dynamic analysis using:
 
 • **Store Location**
@@ -164,14 +161,14 @@ The dashboard allows dynamic analysis using:
 
 These filters allow stakeholders to explore **store-level and category-level performance**.
 
-5. **Tools & Technologies**
+## Tools & Technologies
 
 | Tool               | Purpose                           |
 | ------------------ | --------------------------------- |
 | Excel              | Data cleaning, transformation & Interactive dashboard development   |
 | Data Visualization | Business insights generation      |
 
-6. **Key Business Insights**
+## Key Business Insights
 
 • Revenue grew **104% from January to June**
 
@@ -183,7 +180,7 @@ These filters allow stakeholders to explore **store-level and category-level per
 
 • **Barista Espresso is the highest revenue product**
 
-7. **Business Recommendations**
+## Business Recommendations
 
 A. **Optimize Morning Operations**
 
@@ -209,7 +206,7 @@ Focus supply planning on **coffee and tea products**, which drive the majority o
 
 <img width="2677" height="1396" alt="image" src="https://github.com/user-attachments/assets/8c6111dd-6371-4d74-8346-e875a39b46c1" />
 
-9. **Skills Demonstrated**
+## Skills Demonstrated
 
 • Data Cleaning & Transformation
 
@@ -221,6 +218,6 @@ Focus supply planning on **coffee and tea products**, which drive the majority o
 
 • Dashboard Design & Storytelling
 
-10. **Author**
+## Author
 
 Arpit Mukherjee | Data Analysis, Advanced Excel, Data Visualization
